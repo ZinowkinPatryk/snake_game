@@ -2,6 +2,9 @@
 
 A classic **Snake** game written in Python using the `pygame` library. Control the snake, collect apples to score points and grow longer, but be careful not to hit the walls or your own body!
 
+![](obraz_2026-04-17_153506721.png)
+
+
 ## Features
 
 * **Classic Gameplay:** Collect apples to grow your snake and increase your score.
